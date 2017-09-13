@@ -1,0 +1,19 @@
+{
+  "name": "CoupOnline",
+  "version": "0.0.1",
+  "description": "CoupOnline board game ",
+  "main": "app.js",
+  "scripts": {
+    "test": "echo \"Error: no test specified\" && exit 1"
+  },
+  "repository": {
+    "type": "git",
+    "url": "https://github.com/KAngle7/couponline"
+  },
+  "author": "Khanh",
+  "homepage": "https://github.com/KAngle7/couponline",
+  "dependencies": {
+    "express": "^4.15.4",
+    "socket.io": "^1.3.5"
+  }
+}
